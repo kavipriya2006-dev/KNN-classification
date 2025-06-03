@@ -1,4 +1,4 @@
-# KNN-classification
+
 # K-Nearest Neighbors (KNN) Classification
 
 ## Overview
