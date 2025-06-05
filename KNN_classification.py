@@ -6,8 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
-# Step 1: Load Your Dataset
-df = pd.read_csv("Iris.csv")  # Replace with actual dataset path
+df = pd.read_csv("Iris.csv")  
 print( df.head())
 
 # Step 2: Preprocess Data
